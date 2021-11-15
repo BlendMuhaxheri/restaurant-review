@@ -1,0 +1,19 @@
+.modal{
+    width: 50vh;
+    height: 200px;
+    border: 1px solid red;
+    display: flex;
+  flex-direction: column;
+    margin: 10px;
+    position: absolute;
+    margin-left: 20px;
+    top: 40px;
+ background-color: gray;
+}
+.modal button {
+    background: gray;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}

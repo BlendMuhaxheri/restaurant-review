@@ -1,0 +1,39 @@
+.restaurant_cnt{
+    height: 500px;
+    display: flex;
+  flex-direction: column;
+    position: relative;
+
+}
+
+
+.row{
+    width: 90%;
+    height: 300px;
+}
+.title{
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+ 
+}
+.buttons_div{
+    width: 100%;
+    height: 40%;
+    display: flex;
+   flex-direction: column;
+}
+.restaurant_cnt button {
+    margin: 10px;
+}
+/* .button{
+    width: 200px;
+} */
+.content-div{
+    width: 28rem;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
